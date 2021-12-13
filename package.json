@@ -1,0 +1,12 @@
+{
+  "name": "tarvis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lindellcarternyc/tarvis.git",
+  "author": "Lindell Carter <lindellcarternyc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.3"
+  }
+}
