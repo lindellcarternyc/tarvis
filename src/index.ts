@@ -1,5 +1,7 @@
+import { greet } from './greet'
+
 const main = async () => {
-  console.log('main')
+  await greet()
 }
 
 main()
